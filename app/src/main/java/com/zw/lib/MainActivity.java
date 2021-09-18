@@ -1,10 +1,9 @@
 package com.zw.lib;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends ZWActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
